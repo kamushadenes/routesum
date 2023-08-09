@@ -3,7 +3,7 @@ package rstrie
 import (
 	"testing"
 
-	"github.com/PatrickCronin/routesum/pkg/routesum/bitslice"
+	"github.com/kamushadenes/routesum/pkg/routesum/bitslice"
 	"github.com/stretchr/testify/assert"
 )
 

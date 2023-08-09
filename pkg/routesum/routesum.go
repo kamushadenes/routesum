@@ -6,8 +6,8 @@ import (
 	"net/netip"
 	"strings"
 
-	"github.com/PatrickCronin/routesum/pkg/routesum/bitslice"
-	"github.com/PatrickCronin/routesum/pkg/routesum/rstrie"
+	"github.com/kamushadenes/routesum/pkg/routesum/bitslice"
+	"github.com/kamushadenes/routesum/pkg/routesum/rstrie"
 	"github.com/pkg/errors"
 	"inet.af/netaddr"
 )

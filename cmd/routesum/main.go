@@ -8,7 +8,7 @@ import (
 	"io"
 	"os"
 
-	"github.com/PatrickCronin/routesum/pkg/routesum"
+	"github.com/kamushadenes/routesum/pkg/routesum"
 )
 
 func main() {
